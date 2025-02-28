@@ -1,0 +1,12 @@
+button {
+  background: none;
+  transition: none;
+  border: none;
+}
+button:hover {
+  border: none;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px outset #7a01c7;
+}

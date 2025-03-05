@@ -1,4 +1,4 @@
-# DevQuest - REACT BASE
+# DevQuest - React Base
 
 ## Languages
 
@@ -8,7 +8,7 @@ This first section is in English.
 
 ## Context
 
-This is a solution to the REACT Base challenge from the [DevQuest course](https://evento.devemdobro.com/matriculas-abertas).
+This is a solution to the React Base challenge from the [DevQuest course](https://evento.devemdobro.com/matriculas-abertas).
 
 From this challenge, I needed to:
 
@@ -61,13 +61,13 @@ From this challenge, I needed to:
 - Semantic HTML5 markup
 - CSS custom properties
 - JavaScript & JSX
-- [REACT](https://react.dev/learn) & [VITI](https://vite.dev/guide/)
+- [React](https://react.dev/learn) & [Vite](https://vite.dev/guide/)
 
 ### What I learned
 
-I learned how to use REACT (with VITE + JSX) to render components on the screen, as well as pass values ​​to the components using `props`.
+I learned how to use React (with Vite + JSX) to render components on the screen, as well as pass values ​​to the components using `props`.
 
-It was my first project using REACT and I'm very happy with how it turned out.
+It was my first project using React and I'm very happy with how it turned out.
 
 ```js
 // App.jsx
@@ -93,11 +93,11 @@ return (
 
 <br>
 
-# <p id="portuguese"> DevQuest - REACT Base</p>
+# <p id="portuguese"> DevQuest - React Base</p>
 
 ## Contexto
 
-Esta é uma solução para o desafio de REACT Base do [curso DevQuest](https://evento.devemdobro.com/matriculas-abertas).
+Esta é uma solução para o desafio de React Base do [curso DevQuest](https://evento.devemdobro.com/matriculas-abertas).
 
 A partir disso, foram feitas algumas solicitações:
 
@@ -150,13 +150,13 @@ A partir disso, foram feitas algumas solicitações:
 - HTML5
 - CSS
 - JavaScript & JSX
-- [REACT](https://react.dev/learn) & [VITI](https://vite.dev/guide/)
+- [React](https://react.dev/learn) & [Vite](https://vite.dev/guide/)
 
 ### O que eu aprendi
 
-Eu aprendi a usar o REACT (com o VITE + JSX) para renderizar componentes na tela, além de passar valores para os componentes usando `props`.
+Eu aprendi a usar o React (com o Vite + JSX) para renderizar componentes na tela, além de passar valores para os componentes usando `props`.
 
-Foi meu primeiro projeto usando REACT e estou bem feliz de como ele ficou.
+Foi meu primeiro projeto usando React e estou bem feliz de como ele ficou.
 
 ```jsx
 // App.jsx
